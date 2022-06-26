@@ -16,5 +16,6 @@
 [数据智能在二手车业务场景中的探索与沉淀-Part2业务标签的挖掘](http://public.mba/#/technology?id=eeb5686b666075c1d800d9d1b9490bcc)<br />
 
 ### 分布式
-[HDFS慢节点监控及处理](http://public.mba/#/technology?id=8bec7756a9c191ea37684bdfe0686144)
-[字节跳动 EB 级 HDFS 实践](http://public.mba/#/technology?id=a2f270ee2461f20f46717f5487b40407)
+[HDFS慢节点监控及处理](http://public.mba/#/technology?id=8bec7756a9c191ea37684bdfe0686144)<br />
+[字节跳动 EB 级 HDFS 实践](http://public.mba/#/technology?id=a2f270ee2461f20f46717f5487b40407)<br />
+[分布式锁的封装也很有讲究呀](http://public.mba/#/technology?id=f1407a73868fefe94a9dd651e50df088)<br />
