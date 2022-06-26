@@ -10,5 +10,5 @@
 阿里巴巴、去哪儿、携程、字节跳动、搜狐、360、腾讯、华为、百度、华为、58、美团
 
 ### 大数据
-[Elasitcsearch索引优化](http://public.mba/#/technology?id=f1b562e725ea157eb5fb05384736dd36)
-[​海量数据实时分析服务技术架构演进](http://public.mba/#/technology?id=c0247fe95dcb7e6eec362a930f827531)
+[Elasitcsearch索引优化](http://public.mba/#/technology?id=f1b562e725ea157eb5fb05384736dd36)<br />
+[​海量数据实时分析服务技术架构演进](http://public.mba/#/technology?id=c0247fe95dcb7e6eec362a930f827531)<br />
