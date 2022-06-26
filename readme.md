@@ -19,3 +19,8 @@
 [HDFS慢节点监控及处理](http://public.mba/#/technology?id=8bec7756a9c191ea37684bdfe0686144)<br />
 [字节跳动 EB 级 HDFS 实践](http://public.mba/#/technology?id=a2f270ee2461f20f46717f5487b40407)<br />
 [分布式锁的封装也很有讲究呀](http://public.mba/#/technology?id=f1407a73868fefe94a9dd651e50df088)<br />
+
+### 小程序
+[去哪儿网 ReactNative 跨小程序多端方案介绍](http://public.mba/#/technology?id=353560e337120faa58753d5eac34868b)<br />
+[58安居客小程序平台化与多小程序开发探索与实践](http://public.mba/#/technology?id=2004d5f0e68d7ad7734f9bea6161422b)<br />
+[Web内核微信小程序框架实践](http://public.mba/#/technology?id=44ee33e139c285c109dc8f8db8838c6f)<br />
