@@ -24,3 +24,7 @@
 [去哪儿网 ReactNative 跨小程序多端方案介绍](http://public.mba/#/technology?id=353560e337120faa58753d5eac34868b)<br />
 [58安居客小程序平台化与多小程序开发探索与实践](http://public.mba/#/technology?id=2004d5f0e68d7ad7734f9bea6161422b)<br />
 [Web内核微信小程序框架实践](http://public.mba/#/technology?id=44ee33e139c285c109dc8f8db8838c6f)<br />
+
+<br />
+<br />
+更多短文章&详情 http://www.public.mba
